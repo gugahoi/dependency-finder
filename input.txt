@@ -1,0 +1,6 @@
+a.class : a.jar
+b.class : b.jar
+a.java : a.class
+c.class : c.jar
+a.java : a.class
+c.java : c.class
